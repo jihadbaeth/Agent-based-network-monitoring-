@@ -1,2 +1,3 @@
 # Agent-based-network-monitoring-
 Agent-based network monitoring 
+An  distributed intelligent agent based fault detection system that operates on Windows platform was presented, to capture abnormal and faulty behaviors on both application and system levels. The design process of the intelligent agent utilized the ability of reactive operating and independent decision taking. The system has a web based graphical user interface to facilitate the accessibility to such vital information. Several evaluation scenarios were conducted to evaluate the trustworthiness and performance criterion of the proposed system.
